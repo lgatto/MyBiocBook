@@ -5,6 +5,7 @@ book:
     - pages/preamble.qmd
     - pages/first-chapter.qmd
     - pages/second-chapter.qmd
+    - pages/chapter-three.qmd
   cover-image: assets/cover.png
   favicon: assets/favicon.png
   sidebar: 
